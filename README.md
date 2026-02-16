@@ -1,113 +1,142 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=Godavarthi%20Bhargava&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Software+Engineering+Student;Full-Stack+Developer;Java+%7C+Spring+Boot+%7C+React;DevOps+%7C+Cloud-Native+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=800&lines=GODAVARTHI+BHARGAVA;Software+Engineering+Student;Full-Stack+Developer;Java+%7C+Spring+Boot+%7C+React;DevOps+%7C+Cloud-Native+Systems" />
 </p>
 
 ---
 
-## Profile
+# 👋 Hi, I'm Godavarthi Bhargava  
 
-Software Engineering student at KL University (CPI: 9.54) focused on designing scalable backend systems, secure authentication workflows, and production-ready deployment pipelines.
-
-I build full-stack applications with structured architecture, clean REST APIs, containerized services, and CI/CD automation. My work emphasizes maintainability, security, and real-world usability.
-
-Core interests include distributed systems, DevOps engineering, cloud-native applications, and applied AI integration.
-
----
-
-## Technical Stack
-
-**Programming**
-Java • C • Data Structures & Algorithms • Object-Oriented Programming
-
-**Backend & Web**
-Spring Boot • REST APIs • React • HTML • CSS • JavaScript
-
-**Databases**
-MySQL
-
-**DevOps & Infrastructure**
-Docker • GitHub Actions • Jenkins • Kubernetes • Ansible • CI/CD Pipelines
-
-**Core Foundations**
-DBMS • Operating Systems • Computer Networks • SDLC
+💻 Software Engineering Student  
+🚀 Full-Stack Developer  
+☁️ DevOps & Cloud Enthusiast  
+📍 Vijayawada, India  
 
 ---
 
-## Selected Projects
+## 🧠 About Me
 
-### Crowdfunding Platform (2025)
+I am a detail-oriented B.Tech Computer Science student at **KL University (CPI: 9.54)** passionate about building scalable, secure, and production-ready systems.
 
-A production-style full-stack crowdfunding system enabling secure campaign creation and structured contribution workflows.
+I focus on:
+- 🏗 Clean backend architecture  
+- 🔐 Secure authentication systems  
+- 🚀 Deployment pipelines & containerization  
+- 🤖 Applied AI systems  
+- 🌍 Real-world full-stack applications  
 
-Architecture Highlights:
+I enjoy solving problems and turning ideas into working systems.
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Programming
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### 🌐 Web & Backend
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![REST](https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### 🗄 Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ⚙ DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🔥 Crowdfunding Platform (2025)
+
+Full-stack crowdfunding application with secure campaign creation and contribution system.
+
+**Highlights**
 - Role-based authentication (Admin, Creator, Contributor)
-- Layered Spring Boot backend design
-- RESTful API integration with MySQL
+- RESTful backend with Spring Boot
+- MySQL integration
 - Dockerized services
-- GitHub Actions CI automation
+- CI workflows using GitHub Actions
 
-Stack: Java, Spring Boot, React, MySQL, Docker
-
----
-
-### CivicSense AI – Smart Governance Platform
-
-AI-assisted civic reporting system built during a hackathon to support text, voice, and image-based complaints.
-
-Key Features:
-- Multi-input complaint submission
-- AI-powered classification
-- Multilingual processing via Gemini
-- Real-time data synchronization with Firebase
-
-Stack: JavaScript, Firebase, Web APIs, AI Integration
+**Tech:** Java • Spring Boot • React • MySQL • Docker • GitHub Actions
 
 ---
 
-## Experience
+### 🤖 CivicSense AI – Smart Governance Platform
 
-**Event Designer — KL University (2024–Present)**  
-Designed official event creatives, brochures, and digital materials while collaborating with organizing teams to improve participation visibility.
+AI-assisted civic issue reporting system built during hackathon.
 
-**Social Intern — Student Activity Center (2024)**  
-Contributed to community outreach programs and supported student engagement initiatives.
+**Highlights**
+- Text, Voice & Image complaint support
+- AI-based complaint classification
+- Multilingual support using Gemini AI
+- Firebase real-time sync
 
----
-
-## Achievements
-
-Top 3 — Google Developers Hackathon (100+ teams)  
-Design Patent Approved — Mobile-Controlled Water Fetching Robot  
-Smart India Hackathon — College-level selection  
+**Tech:** JavaScript • Firebase • Google Gemini AI • Web APIs
 
 ---
 
-## GitHub Activity
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GBhargava&show_icons=true&theme=transparent&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GBhargava&theme=transparent&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GBhargava&theme=github-compact&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GBhargava&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GBhargava&theme=tokyonight" height="170"/>
 </p>
 
 ---
 
-## Contact
+## 🏆 Achievements
 
-Vijayawada, India  
-bhargava9553@gmail.com  
-https://linkedin.com/in/godavarthibhargava  
-https://bhargava-portfolio.netlify.app  
+🥇 Top 3 – Google Developers Hackathon 2025 (100+ teams)  
+📜 Design Patent Approved – Mobile-Controlled Water Fetching Robot  
+🚀 SIH College-Level Shortlisted (500+ teams)  
+
+---
+
+## 💼 Experience
+
+### 🎨 Event Designer — KL University (2024–Present)
+- Designed official brochures & posters
+- Improved event visibility & participation
+- Worked with cross-functional teams
+
+### 🌍 Social Intern — SAC, KLEF (2024)
+- Community outreach initiatives
+- Student engagement programs
+
+---
+
+## 🎯 GitHub Focus
+
+- Clean backend architecture
+- Production-style full-stack apps
+- Role-based systems
+- DevOps pipelines
+- Consistent DSA practice
+
+---
+
+## 🌐 Coding Profiles
+
+🔹 LeetCode: GBhargava  
+🔹 HackerRank: 2300033634cseel1  
+
+---
+
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/godavarthibhargava/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bhargava-portfolio.netlify.app)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhargava9553@gmail.com)
 
 ---
 
 <p align="center">
-  Building systems that scale, secure, and solve real-world problems.
+  ⭐ “Building systems that scale, secure, and solve real problems.”
 </p>
