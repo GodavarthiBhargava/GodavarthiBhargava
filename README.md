@@ -1,142 +1,153 @@
+<!-- Animated Matrix Background Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=800&lines=GODAVARTHI+BHARGAVA;Software+Engineering+Student;Full-Stack+Developer;Java+%7C+Spring+Boot+%7C+React;DevOps+%7C+Cloud-Native+Systems" />
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100%" />
+</p>
+
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=220&section=header&text=Godavarthi%20Bhargava&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+</p>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Software+Engineering+Student;Full-Stack+Developer;Java+%7C+Spring+Boot+%7C+React;DevOps+%7C+Cloud-Native+Systems;Building+Scalable+Backend+Architectures" />
 </p>
 
 ---
 
-# 👋 Hi, I'm Godavarthi Bhargava  
+<img src="https://user-images.githubusercontent.com/74038190/212257471-0e5c2e3b-8d68-44df-bb6b-6f0cdb2c3e91.gif" width="100%" />
 
-💻 Software Engineering Student  
-🚀 Full-Stack Developer  
-☁️ DevOps & Cloud Enthusiast  
-📍 Vijayawada, India  
+## Profile
 
----
+Software Engineering student at KL University (CPI: 9.54) focused on scalable backend systems, secure authentication workflows, and production-grade deployment pipelines.
 
-## 🧠 About Me
+I design structured full-stack systems emphasizing:
 
-I am a detail-oriented B.Tech Computer Science student at **KL University (CPI: 9.54)** passionate about building scalable, secure, and production-ready systems.
+- Clean REST APIs  
+- Layered architecture  
+- Containerized deployments  
+- CI/CD automation  
+- Maintainable system design  
 
-I focus on:
-- 🏗 Clean backend architecture  
-- 🔐 Secure authentication systems  
-- 🚀 Deployment pipelines & containerization  
-- 🤖 Applied AI systems  
-- 🌍 Real-world full-stack applications  
-
-I enjoy solving problems and turning ideas into working systems.
+Primary interests include distributed systems, DevOps engineering, cloud-native applications, and applied AI integration.
 
 ---
 
-## 🛠 Tech Stack
+<img src="https://user-images.githubusercontent.com/74038190/212257469-1b91c9d7-54e3-4e5e-bdd4-75d98c8eab24.gif" width="100%" />
 
-### 💻 Programming
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+## Technical Stack
 
-### 🌐 Web & Backend
-![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![REST](https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=fastapi&logoColor=white)
+**Programming**  
+Java • C • Data Structures & Algorithms • OOP  
 
-### 🗄 Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+**Backend & Web**  
+Spring Boot • REST APIs • React • HTML • CSS • JavaScript  
 
-### ⚙ DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
+**Databases**  
+MySQL  
+
+**DevOps & Infrastructure**  
+Docker • GitHub Actions • Jenkins • Kubernetes • Ansible  
+
+**Core Foundations**  
+DBMS • Operating Systems • Computer Networks • SDLC  
 
 ---
 
-## 🚀 Featured Projects
+<img src="https://user-images.githubusercontent.com/74038190/212257475-87e78fa9-2df8-4d52-a7b4-fdbb69c2b352.gif" width="100%" />
 
-### 🔥 Crowdfunding Platform (2025)
+## Selected Projects
 
-Full-stack crowdfunding application with secure campaign creation and contribution system.
+### Crowdfunding Platform (2025)
 
-**Highlights**
-- Role-based authentication (Admin, Creator, Contributor)
-- RESTful backend with Spring Boot
-- MySQL integration
+Production-style full-stack system enabling secure campaign creation and structured contributions.
+
+Architecture Highlights:
+- Role-based authentication
+- Layered Spring Boot backend
+- MySQL relational modeling
 - Dockerized services
-- CI workflows using GitHub Actions
+- GitHub Actions CI automation
 
-**Tech:** Java • Spring Boot • React • MySQL • Docker • GitHub Actions
-
----
-
-### 🤖 CivicSense AI – Smart Governance Platform
-
-AI-assisted civic issue reporting system built during hackathon.
-
-**Highlights**
-- Text, Voice & Image complaint support
-- AI-based complaint classification
-- Multilingual support using Gemini AI
-- Firebase real-time sync
-
-**Tech:** JavaScript • Firebase • Google Gemini AI • Web APIs
+Stack: Java • Spring Boot • React • MySQL • Docker  
 
 ---
 
-## 📊 GitHub Stats
+### CivicSense AI – Smart Governance Platform
+
+AI-assisted civic reporting platform supporting text, voice, and image-based complaints.
+
+Key Features:
+- Multi-input complaint interface
+- AI-powered classification
+- Multilingual processing
+- Real-time sync via Firebase
+
+Stack: JavaScript • Firebase • AI Integration  
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212257472-6b2b0f8f-3a64-4b6d-8d5c-9a94e541fbb9.gif" width="100%" />
+
+## Experience
+
+Event Designer — KL University (2024–Present)  
+Designed official creatives and collaborated across university teams.
+
+Social Intern — Student Activity Center (2024)  
+Supported outreach programs and student engagement initiatives.
+
+---
+
+## Achievements
+
+Top 3 — Google Developers Hackathon (100+ teams)  
+Design Patent Approved — Mobile-Controlled Water Fetching Robot  
+Smart India Hackathon — College-level selection  
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212257478-44a19f8e-7c2b-4fa1-b9e7-8a6c3b5f2e91.gif" width="100%" />
+
+## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GBhargava&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GBhargava&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GBhargava&show_icons=true&theme=transparent&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GBhargava&theme=transparent&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GBhargava&theme=github-compact&hide_border=true" />
 </p>
 
 ---
 
-## 🏆 Achievements
-
-🥇 Top 3 – Google Developers Hackathon 2025 (100+ teams)  
-📜 Design Patent Approved – Mobile-Controlled Water Fetching Robot  
-🚀 SIH College-Level Shortlisted (500+ teams)  
-
----
-
-## 💼 Experience
-
-### 🎨 Event Designer — KL University (2024–Present)
-- Designed official brochures & posters
-- Improved event visibility & participation
-- Worked with cross-functional teams
-
-### 🌍 Social Intern — SAC, KLEF (2024)
-- Community outreach initiatives
-- Student engagement programs
-
----
-
-## 🎯 GitHub Focus
-
-- Clean backend architecture
-- Production-style full-stack apps
-- Role-based systems
-- DevOps pipelines
-- Consistent DSA practice
-
----
-
-## 🌐 Coding Profiles
-
-🔹 LeetCode: GBhargava  
-🔹 HackerRank: 2300033634cseel1  
-
----
-
-## 🤝 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/godavarthibhargava/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bhargava-portfolio.netlify.app)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhargava9553@gmail.com)
-
----
+## Contribution Activity
 
 <p align="center">
-  ⭐ “Building systems that scale, secure, and solve real problems.”
+  <img src="https://raw.githubusercontent.com/GBhargava/GBhargava/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## Visitor Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GBhargava&style=flat-square&color=blue" />
+</p>
+
+---
+
+## Contact
+
+Vijayawada, India  
+bhargava9553@gmail.com  
+https://linkedin.com/in/godavarthibhargava  
+https://bhargava-portfolio.netlify.app  
+
+---
+
+<!-- Animated Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=150&section=footer"/>
 </p>
